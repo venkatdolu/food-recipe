@@ -1,0 +1,14 @@
+com/foodrecipe/dao/IRecipeDetailsDao.class
+com/foodrecipe/controller/UserController.class
+com/foodrecipe/service/IUserDetailService.class
+com/foodrecipe/entity/User.class
+com/foodrecipe/service/RecipeDetailsService.class
+com/foodrecipe/dao/IUserDao.class
+com/foodrecipe/MyApplication.class
+com/foodrecipe/entity/RecipeDetails.class
+com/foodrecipe/service/UserDetailService.class
+com/foodrecipe/dao/UserDao.class
+com/foodrecipe/dao/RecipeDetailsDao.class
+com/foodrecipe/controller/RecipeController.class
+com/foodrecipe/entity/Role.class
+com/foodrecipe/service/IRecipeDetailsService.class
